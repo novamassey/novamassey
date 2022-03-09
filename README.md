@@ -10,7 +10,7 @@ My name is Nova and I am a recent graduate of General Assembly's Software Engine
  I have long desired to be able to create/build meaningful products that have a positive impact on the world and the people that inhabit it. 
  Technology is ever expanding and excessible to more and more people everyday and I hope to be able to develop projects that improve the lives of everyday people.
  
- I bring 14+ years experience in management, communication and problem solving and I look forward to bringing those as well as my new tech skills to my first developer role.
+ I bring 14+ years experience in management, communication and problem solving. I look forward to bringing those skills, as well as my new tech skills to my first developer role.
 
 #### Current Skillset:
  * HTML
