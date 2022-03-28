@@ -23,7 +23,7 @@ My name is Nova and I am a recent graduate of General Assembly's Software Engine
  * REACT
  * Express
  * Mongoose/MongoDB
- * PsotgreSQL
+ * PostgreSQL
 
 
 
