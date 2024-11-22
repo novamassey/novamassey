@@ -26,7 +26,7 @@ My name is Nova and I am a recent graduate of General Assembly's Software Engine
  * PostgreSQL
 
 
-
+<!---
 #### Here are some quick links to my deployed projects:
 
 [Gemometry](https://gememotryjewelry.herokuapp.com/)
@@ -36,7 +36,7 @@ My name is Nova and I am a recent graduate of General Assembly's Software Engine
 [Save the Monarchs](https://mongoose-monarchs.herokuapp.com/)
 
 [WAR](https://novamassey.github.io/WAR/)
-
+--->
 
 #### Connect with me on LinkedIn:
 [Nova Massey](https://www.linkedin.com/in/nova-massey)
