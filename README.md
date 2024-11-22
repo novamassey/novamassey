@@ -1,8 +1,10 @@
 <div style="width:100%;"><img src = "https://i.imgur.com/AEx0xri.png"></div>
-
+<!---
 ### Greetings! 
-
+--->
+<!---
 My name is Nova and I am a recent graduate of General Assembly's Software Engineering Immersive program.  I am excited to embark on the adventure of becoming a full-stack software engineer. 
+--->
 
 
 ---
